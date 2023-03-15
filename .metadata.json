@@ -1,10 +1,10 @@
 [
   {
-    "package": "fddm",
+    "package": "rtdists",
     "oncran": true
   },
   {
-    "package": "rtdists",
+    "package": "fddm",
     "oncran": true
   }
 ]
